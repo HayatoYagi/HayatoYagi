@@ -1,3 +1,4 @@
+<!-- Badges -->
 <p>
   <a href="https://github.com/HayatoYagi/HayatoYagi/">
     <img src="https://komarev.com/ghpvc/?username=HayatoYagi" alt="HayatoYagi" />
@@ -18,6 +19,7 @@
   
 </p>
 
+<!-- GitHub Readme Stats -->
 <p>
   <img alt="8trees' GitHub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=HayatoYagi&count_private=true&show_icons=true&theme=merko&include_all_commits=true">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HayatoYagi&theme=merko&layout=compact">
@@ -37,12 +39,12 @@
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 -->
 
-<!-- https://github.com/avinal/Profile-Readme-WakaTime -->
+<!-- Profile ReadmeWakaTime-->
 <img
   src="https://github.com/HayatoYagi/HayatoYagi/blob/main/images/stat.svg"
   alt="HayatoYagi WakaTime Activity"
 />
 
-<!-- https://github.com/anmol098/waka-readme-stats#update-your-readme -->
+<!-- WakaTime Readme status -->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->

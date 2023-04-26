@@ -42,3 +42,7 @@
   src="https://github.com/HayatoYagi/HayatoYagi/blob/main/images/stat.svg"
   alt="HayatoYagi WakaTime Activity"
 />
+
+<!-- https://github.com/anmol098/waka-readme-stats#update-your-readme -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->

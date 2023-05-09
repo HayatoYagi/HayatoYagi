@@ -22,7 +22,7 @@
 <!-- GitHub Readme Stats -->
 <p>
   <img alt="8trees' GitHub Stats" height="150px" src="https://github-readme-stats-sigma-beige-26.vercel.app/api?username=HayatoYagi&count_private=true&show_icons=true&theme=merko&include_all_commits=true">
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats-sigma-beige-26.vercel.app/api/top-langs/?username=HayatoYagi&theme=merko&layout=compact">
+<!--   <img alt="Top Langs" height="150px" src="https://github-readme-stats-sigma-beige-26.vercel.app/api/top-langs/?username=HayatoYagi&theme=merko&layout=compact"> -->
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)

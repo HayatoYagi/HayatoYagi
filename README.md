@@ -86,14 +86,13 @@ Sunday                   1127 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   0 secs              █████████████░░░░░░░░░░░░   51.25 % 
-JSON                     0 secs              ████████████░░░░░░░░░░░░░   48.75 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -109,5 +108,5 @@ Jupyter Notebook         2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2024-01-02 18:42:12 UTC
+ Last Updated on 2024-01-03 18:41:32 UTC
 <!--END_SECTION:waka-->

@@ -43,15 +43,15 @@
 
 <!-- WakaTime Readme status -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-711%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-716%20hrs%2030%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 105.6 kB Used in GitHub's Storage 
+> 📦 105.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,069 Contributions in the Year 2024
+> 🏆 1,071 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -59,46 +59,6 @@
  > 
 > 🔑 11 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                4868 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-🌆 Daytime                22070 commits       █████████░░░░░░░░░░░░░░░░   36.45 % 
-🌃 Evening                18439 commits       ████████░░░░░░░░░░░░░░░░░   30.45 % 
-🌙 Night                  15169 commits       ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   7336 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-Tuesday                  14339 commits       ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
-Wednesday                9157 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Thursday                 6058 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-Friday                   11463 commits       █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
-Saturday                 5349 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-Sunday                   6844 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-Python                   5 hrs 49 mins       ███████████████░░░░░░░░░░   59.38 % 
-TypeScript               1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-YAML                     1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-Terraform                25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-JavaScript               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-
-🔥 Editors: 
-VS Code                  9 hrs 48 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-WSL                      9 hrs 48 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -112,5 +72,5 @@ Solidity                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2024-09-20 18:52:08 UTC
+ Last Updated on 2024-09-21 18:49:18 UTC
 <!--END_SECTION:waka-->

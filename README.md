@@ -43,15 +43,15 @@
 
 <!-- WakaTime Readme status -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-735%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-740%20hrs%2015%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 105.0 kB Used in GitHub's Storage 
+> 📦 105.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,107 Contributions in the Year 2024
+> 🏆 1,109 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -59,6 +59,46 @@
  > 
 > 🔑 11 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                5173 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+🌆 Daytime                22989 commits       █████████░░░░░░░░░░░░░░░░   36.25 % 
+🌃 Evening                19395 commits       ████████░░░░░░░░░░░░░░░░░   30.58 % 
+🌙 Night                  15869 commits       ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   7689 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Tuesday                  14986 commits       ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
+Wednesday                9545 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+Thursday                 6382 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+Friday                   11975 commits       █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
+Saturday                 5642 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+Sunday                   7207 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+Python                   6 hrs 18 mins       █████████████░░░░░░░░░░░░   51.27 % 
+TypeScript               2 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
+Markdown                 1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+C++                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+TOML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+
+🔥 Editors: 
+VS Code                  12 hrs 18 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+WSL                      12 hrs 18 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -72,5 +112,5 @@ Jupyter Notebook         2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2024-10-06 18:52:00 UTC
+ Last Updated on 2024-10-07 18:53:01 UTC
 <!--END_SECTION:waka-->

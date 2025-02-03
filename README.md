@@ -117,3 +117,5 @@ Jupyter Notebook         2 repos             ██░░░░░░░░░�
 
  Last Updated on 2025-02-02 18:54:51 UTC
 <!--END_SECTION:waka-->
+
+[![roadmap.sh](https://roadmap.sh/card/wide/679f7363d7c9b4cc8b39d51a?variant=dark)](https://roadmap.sh)

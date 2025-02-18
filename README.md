@@ -46,15 +46,15 @@
 
 <!-- WakaTime Readme status -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C088%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C093%20hrs%2015%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-52.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-53.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 183.1 kB Used in GitHub's Storage 
  > 
-> 🏆 451 Contributions in the Year 2025
+> 🏆 466 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,47 +62,6 @@
  > 
 > 🔑 12 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                11182 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-🌆 Daytime                42169 commits       █████████░░░░░░░░░░░░░░░░   34.20 % 
-🌃 Evening                38696 commits       ████████░░░░░░░░░░░░░░░░░   31.39 % 
-🌙 Night                  31242 commits       ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   15590 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-Tuesday                  28167 commits       ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
-Wednesday                17357 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Thursday                 13678 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-Friday                   22425 commits       █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
-Saturday                 12102 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-Sunday                   13970 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-Python                   6 hrs 30 mins       █████████████░░░░░░░░░░░░   52.62 % 
-Terraform                2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-TeX                      1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-YAML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-
-🔥 Editors: 
-VS Code                  12 hrs 22 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-WSL                      12 hrs 13 mins      █████████████████████████   98.79 % 
-Linux                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -116,7 +75,7 @@ Jupyter Notebook         2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2025-02-17 19:01:37 UTC
+ Last Updated on 2025-02-18 19:04:30 UTC
 <!--END_SECTION:waka-->
 
 [![roadmap.sh](https://roadmap.sh/card/wide/679f7363d7c9b4cc8b39d51a?variant=dark)](https://roadmap.sh)

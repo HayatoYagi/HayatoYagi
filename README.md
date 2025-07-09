@@ -48,60 +48,20 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C251%20hrs%2051%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-59.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-60.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 188.3 kB Used in GitHub's Storage 
+> 📦 127.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1,021 Contributions in the Year 2025
+> 🏆 1,023 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 18 Public Repositories 
  > 
-> 🔑 15 Private Repositories 
+> 🔑 13 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                13565 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-🌆 Daytime                44027 commits       ████████░░░░░░░░░░░░░░░░░   32.99 % 
-🌃 Evening                42041 commits       ████████░░░░░░░░░░░░░░░░░   31.50 % 
-🌙 Night                  33839 commits       ██████░░░░░░░░░░░░░░░░░░░   25.35 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   16533 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-Tuesday                  29282 commits       █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
-Wednesday                19078 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Thursday                 15725 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Friday                   23482 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-Saturday                 13819 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
-Sunday                   15553 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-Python                   4 hrs 40 mins       ███████████████████████░░   90.93 % 
-TypeScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
-Terraform                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-
-🔥 Editors: 
-VS Code                  5 hrs 8 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-WSL                      5 hrs 8 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -115,7 +75,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2025-07-08 19:11:51 UTC
+ Last Updated on 2025-07-09 19:12:29 UTC
 <!--END_SECTION:waka-->
 
 [![roadmap.sh](https://roadmap.sh/card/wide/679f7363d7c9b4cc8b39d51a?variant=dark)](https://roadmap.sh)

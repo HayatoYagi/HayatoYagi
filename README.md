@@ -46,15 +46,15 @@
 
 <!-- WakaTime Readme status -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C258%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C261%20hrs%208%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-63.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-64.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 126.8 kB Used in GitHub's Storage 
  > 
-> 🏆 1,042 Contributions in the Year 2025
+> 🏆 1,045 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,47 +62,6 @@
  > 
 > 🔑 13 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                14465 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-🌆 Daytime                45992 commits       ████████░░░░░░░░░░░░░░░░░   32.84 % 
-🌃 Evening                44163 commits       ████████░░░░░░░░░░░░░░░░░   31.53 % 
-🌙 Night                  35437 commits       ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   17360 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-Tuesday                  30679 commits       █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
-Wednesday                20023 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-Thursday                 16500 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Friday                   24640 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-Saturday                 14611 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Sunday                   16244 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-Python                   5 hrs 4 mins        ███████████████░░░░░░░░░░   59.07 % 
-TypeScript               2 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   30.80 % 
-Bash                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-
-🔥 Editors: 
-VS Code                  8 hrs 35 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-WSL                      8 hrs 26 mins       █████████████████████████   98.27 % 
-Linux                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -116,7 +75,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2025-07-16 19:12:05 UTC
+ Last Updated on 2025-07-17 19:16:14 UTC
 <!--END_SECTION:waka-->
 
 [![roadmap.sh](https://roadmap.sh/card/wide/679f7363d7c9b4cc8b39d51a?variant=dark)](https://roadmap.sh)

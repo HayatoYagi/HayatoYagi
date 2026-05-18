@@ -46,13 +46,15 @@
 
 <!-- WakaTime Readme status -->
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-193.67%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C424%20hrs%2053%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-196.08%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 131.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1,148 Contributions in the Year 2026
+> 🏆 1,155 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,6 +62,42 @@
  > 
 > 🔑 15 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                49104 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+🌆 Daytime                107002 commits      ███████░░░░░░░░░░░░░░░░░░   27.56 % 
+🌃 Evening                135490 commits      █████████░░░░░░░░░░░░░░░░   34.90 % 
+🌙 Night                  96642 commits       ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   53755 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Tuesday                  76429 commits       █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+Wednesday                53619 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+Thursday                 45359 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+Friday                   62947 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+Saturday                 43642 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+Sunday                   52487 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -73,7 +111,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-05-17 21:30:31 UTC
+ Last Updated on 2026-05-18 21:54:56 UTC
 <!--END_SECTION:waka-->
 
 [![roadmap.sh](https://roadmap.sh/card/wide/679f7363d7c9b4cc8b39d51a?variant=dark)](https://roadmap.sh)

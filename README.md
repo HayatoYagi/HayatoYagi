@@ -46,13 +46,15 @@
 
 <!-- WakaTime Readme status -->
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-207.28%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C424%20hrs%2054%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-204.91%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 132.1 kB Used in GitHub's Storage 
+> 📦 132.2 kB Used in GitHub's Storage 
  > 
-> 🏆 1,259 Contributions in the Year 2026
+> 🏆 1,262 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,6 +62,42 @@
  > 
 > 🔑 15 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                51362 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+🌆 Daytime                111574 commits      ███████░░░░░░░░░░░░░░░░░░   27.49 % 
+🌃 Evening                142139 commits      █████████░░░░░░░░░░░░░░░░   35.02 % 
+🌙 Night                  100801 commits      ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   56363 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Tuesday                  80122 commits       █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
+Wednesday                55722 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Thursday                 47601 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+Friday                   65777 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+Saturday                 45516 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Sunday                   54775 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -73,7 +111,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2026-05-28 21:27:46 UTC
+ Last Updated on 2026-05-29 21:16:03 UTC
 <!--END_SECTION:waka-->
 
 [![roadmap.sh](https://roadmap.sh/card/wide/679f7363d7c9b4cc8b39d51a?variant=dark)](https://roadmap.sh)

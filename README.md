@@ -46,15 +46,13 @@
 
 <!-- WakaTime Readme status -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C463%20hrs%206%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-265.22%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-268.82%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 132.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,885 Contributions in the Year 2026
+> 🏆 1,918 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,42 +60,6 @@
  > 
 > 🔑 15 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                66319 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-🌆 Daytime                142240 commits      ███████░░░░░░░░░░░░░░░░░░   27.10 % 
-🌃 Evening                186745 commits      █████████░░░░░░░░░░░░░░░░   35.58 % 
-🌙 Night                  129569 commits      ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   74209 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-Tuesday                  104025 commits      █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
-Wednesday                70551 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-Thursday                 62428 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-Friday                   84856 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-Saturday                 58144 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-Sunday                   70660 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Dart** 
 
 ```text
@@ -111,7 +73,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2026-07-23 21:06:35 UTC
+ Last Updated on 2026-07-24 21:29:20 UTC
 <!--END_SECTION:waka-->
 
 [![roadmap.sh](https://roadmap.sh/card/wide/679f7363d7c9b4cc8b39d51a?variant=dark)](https://roadmap.sh)

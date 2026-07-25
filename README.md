@@ -46,6 +46,8 @@
 
 <!-- WakaTime Readme status -->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C468%20hrs%2021%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-268.82%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -60,6 +62,42 @@
  > 
 > 🔑 15 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                67161 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+🌆 Daytime                143988 commits      ███████░░░░░░░░░░░░░░░░░░   27.08 % 
+🌃 Evening                189310 commits      █████████░░░░░░░░░░░░░░░░   35.61 % 
+🌙 Night                  131219 commits      ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   75253 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+Tuesday                  105387 commits      █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+Wednesday                71431 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Thursday                 63254 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+Friday                   85944 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+Saturday                 58860 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Sunday                   71549 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -73,7 +111,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2026-07-24 21:29:20 UTC
+ Last Updated on 2026-07-25 20:40:34 UTC
 <!--END_SECTION:waka-->
 
 [![roadmap.sh](https://roadmap.sh/card/wide/679f7363d7c9b4cc8b39d51a?variant=dark)](https://roadmap.sh)

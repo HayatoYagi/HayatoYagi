@@ -46,17 +46,13 @@
 
 <!-- WakaTime Readme status -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C453%20hrs%2039%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-55%20hrs%2056%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-280.46%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-285.25%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 131.9 kB Used in GitHub's Storage 
+> 📦 132.0 kB Used in GitHub's Storage 
  > 
-> 🏆 2,029 Contributions in the Year 2026
+> 🏆 2,066 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -67,21 +63,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                69648 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-🌆 Daytime                149215 commits      ███████░░░░░░░░░░░░░░░░░░   27.03 % 
-🌃 Evening                197037 commits      █████████░░░░░░░░░░░░░░░░   35.69 % 
-🌙 Night                  136146 commits      ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
+🌞 Morning                70660 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+🌆 Daytime                151310 commits      ███████░░░░░░░░░░░░░░░░░░   27.01 % 
+🌃 Evening                200059 commits      █████████░░░░░░░░░░░░░░░░   35.71 % 
+🌙 Night                  138156 commits      ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   78448 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Tuesday                  109482 commits      █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
-Wednesday                74205 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-Thursday                 65670 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Friday                   89177 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-Saturday                 60960 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-Sunday                   74104 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+Monday                   79655 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Tuesday                  111050 commits      █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+Wednesday                75283 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Thursday                 66691 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Friday                   90495 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+Saturday                 61807 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+Sunday                   75204 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
 ```
 
 
@@ -91,19 +87,40 @@ Sunday                   74104 commits       ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   54 mins             ██████████████░░░░░░░░░░░   54.54 % 
+Text                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+Markdown                 10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+JavaScript               6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+Git                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              1 hr 24 mins        █████████████████████░░░░   83.46 % 
+Android Studio           16 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 40 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 39 mins (98.42%)
+
+✍️ 479 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 34,105,995 Input Tokens, 143,287 Output Tokens
+
+💵 $69.03 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 22 AI Prompts
+
+Sonnet                   533 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 2,453 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -119,7 +136,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2026-08-05 21:19:53 UTC
+ Last Updated on 2026-08-07 20:47:38 UTC
 <!--END_SECTION:waka-->
 
 [![roadmap.sh](https://roadmap.sh/card/wide/679f7363d7c9b4cc8b39d51a?variant=dark)](https://roadmap.sh)

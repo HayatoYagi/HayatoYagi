@@ -46,11 +46,11 @@
 
 <!-- WakaTime Readme status -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C491%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C492%20hrs%209%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-93%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-94%20hrs%2030%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-297.19%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-298.84%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -67,21 +67,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                73203 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-🌆 Daytime                156534 commits      ███████░░░░░░░░░░░░░░░░░░   26.96 % 
-🌃 Evening                207735 commits      █████████░░░░░░░░░░░░░░░░   35.78 % 
-🌙 Night                  143070 commits      ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
+🌞 Morning                73566 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+🌆 Daytime                157290 commits      ███████░░░░░░░░░░░░░░░░░░   26.96 % 
+🌃 Evening                208851 commits      █████████░░░░░░░░░░░░░░░░   35.79 % 
+🌙 Night                  143778 commits      ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   82645 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-Tuesday                  115042 commits      █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
-Wednesday                77976 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-Thursday                 69252 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-Friday                   93820 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-Saturday                 63961 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Sunday                   77846 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Monday                   83089 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+Tuesday                  115633 commits      █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+Wednesday                78366 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+Thursday                 69612 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+Friday                   94288 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+Saturday                 64270 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Sunday                   78227 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
 ```
 
 
@@ -91,43 +91,43 @@ Sunday                   77846 commits       ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Kotlin                   11 hrs 58 mins      ███████████░░░░░░░░░░░░░░   44.52 % 
-Markdown                 5 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
-YAML                     2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-Terraform                1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-TOML                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+Kotlin                   8 hrs 34 mins       ████████████░░░░░░░░░░░░░   46.19 % 
+Markdown                 3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+Terraform                1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+TOML                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+Text                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
 
 🔥 Editors: 
-Claude Code              25 hrs 5 mins       ███████████████████████░░   93.26 % 
-Android Studio           1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-VS Code                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+Claude Code              16 hrs 56 mins      ███████████████████████░░   91.26 % 
+Android Studio           1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+VS Code                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 
 💻 Operating System: 
-Windows                  24 hrs 43 mins      ███████████████████████░░   91.87 % 
-WSL                      2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+Windows                  16 hrs 22 mins      ██████████████████████░░░   88.21 % 
+WSL                      2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 35 mins (98.81%)
+⏱ AI Coding Time: 18 hrs 15 mins (98.33%)
 
-✍️ 6,345 lines written by AI, 42 lines written by hand (99.34% AI-written)
+✍️ 4,652 lines written by AI, 42 lines written by hand (99.11% AI-written)
 
-🔤 17,125,172 Input Tokens, 3,017,499 Output Tokens
+🔤 13,035,992 Input Tokens, 2,034,624 Output Tokens
 
-💵 $323.61 Estimated AI Cost This Week
+💵 $182.42 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 367 AI Prompts
+🧠 19 AI Sessions, 294 AI Prompts
 
-Sonnet                   8,084 lines         █████████████████████████   100.00 % 
+Sonnet                   5,738 lines         █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.34% of written lines came from AI
-📄 Detailed Prompter — average 750 characters per prompt
-🔁 Iterative Prompter — average 20 prompts per session
-🚀 High AI Trust — 0.54% of changed lines were hand-edited
+🤖 AI-Driven — 99.11% of written lines came from AI
+📄 Detailed Prompter — average 718 characters per prompt
+🔁 Iterative Prompter — average 15 prompts per session
+🚀 High AI Trust — 0.76% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -143,7 +143,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2026-08-21 20:55:23 UTC
+ Last Updated on 2026-08-22 20:56:12 UTC
 <!--END_SECTION:waka-->
 
 [![roadmap.sh](https://roadmap.sh/card/wide/679f7363d7c9b4cc8b39d51a?variant=dark)](https://roadmap.sh)

@@ -46,17 +46,17 @@
 
 <!-- WakaTime Readme status -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C493%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C493%20hrs%2048%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-95%20hrs%2030%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-96%20hrs%209%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-314.92%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-319.18%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 133.7 kB Used in GitHub's Storage 
+> 📦 132.5 kB Used in GitHub's Storage 
  > 
-> 🏆 2,552 Contributions in the Year 2026
+> 🏆 2,568 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -67,21 +67,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                77022 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-🌆 Daytime                164506 commits      ███████░░░░░░░░░░░░░░░░░░   26.88 % 
-🌃 Evening                219631 commits      █████████░░░░░░░░░░░░░░░░   35.89 % 
-🌙 Night                  150777 commits      ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
+🌞 Morning                77905 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+🌆 Daytime                166352 commits      ███████░░░░░░░░░░░░░░░░░░   26.86 % 
+🌃 Evening                222421 commits      █████████░░░░░░░░░░░░░░░░   35.92 % 
+🌙 Night                  152573 commits      ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   87339 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-Tuesday                  121469 commits      █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
-Wednesday                82131 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-Thursday                 73078 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Friday                   98773 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-Saturday                 67230 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-Sunday                   81916 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Monday                   88459 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Tuesday                  122985 commits      █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+Wednesday                83105 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+Thursday                 73965 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Friday                   99920 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+Saturday                 67972 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+Sunday                   82845 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
 ```
 
 
@@ -91,42 +91,40 @@ Sunday                   81916 commits       ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Kotlin                   3 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   39.82 % 
-Markdown                 2 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
-Terraform                1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
-YAML                     1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Bash                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+Markdown                 1 hr 54 mins        ████████████████░░░░░░░░░   65.89 % 
+YAML                     37 mins             █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
+Kotlin                   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+Terraform                5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+textmate                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 44 mins       ██████████████████████░░░   88.30 % 
-Android Studio           51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-VS Code                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Claude Code              2 hrs 38 mins       ███████████████████████░░   90.79 % 
+Android Studio           16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
 
 💻 Operating System: 
-Windows                  8 hrs 36 mins       █████████████████████████   98.04 % 
-WSL                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Windows                  2 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 34 mins (97.75%)
+⏱ AI Coding Time: 2 hrs 54 mins (100.0%)
 
-✍️ 2,124 lines written by AI, 27 lines written by hand (98.74% AI-written)
+✍️ 117 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,361,824 Input Tokens, 568,663 Output Tokens
+🔤 257,122 Input Tokens, 62,761 Output Tokens
 
-💵 $54.70 Estimated AI Cost This Week
+💵 $19.16 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 185 AI Prompts
+🧠 7 AI Sessions, 23 AI Prompts
 
-Sonnet                   2,329 lines         █████████████████████████   100.00 % 
+Sonnet                   385 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.74% of written lines came from AI
-📄 Detailed Prompter — average 942 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 1.3% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 574 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -142,7 +140,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2026-08-26 21:49:16 UTC
+ Last Updated on 2026-08-28 00:17:43 UTC
 <!--END_SECTION:waka-->
 
 [![roadmap.sh](https://roadmap.sh/card/wide/679f7363d7c9b4cc8b39d51a?variant=dark)](https://roadmap.sh)
